@@ -1,0 +1,4 @@
+venv
+.idea
+movie_dict.pkl
+movies.pkl

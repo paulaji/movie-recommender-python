@@ -1,0 +1,2 @@
+streamlit run main.py
+this will locally host 
