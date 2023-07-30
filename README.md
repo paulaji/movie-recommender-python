@@ -1,6 +1,6 @@
 # Movie Recommender (International) - Streamlit App
 
-<img src="Screenshot_7.jpeg" alt="Screenshot 7">
+<img src="Screenshot_7.png" alt="Screenshot 7">
 
 This Streamlit app provides movie recommendations based on an international movie dataset. The app utilizes a movie similarity model to suggest similar movies to the one selected by the user.
 
